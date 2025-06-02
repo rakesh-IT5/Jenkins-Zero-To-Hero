@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: rakesh/ultimate-cicd:replaceImageTag
+        image: rakeshdhub/ultimate-cicd:replaceImageTag
         ports:
         - containerPort: 8080
